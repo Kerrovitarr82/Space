@@ -107,92 +107,92 @@
 	right: 10px;
 }
 .mainPageDiv:nth-child(1) {
-    background-image: url(/images/space/earth.jpg);
+    background-image: url(space/earth.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(2) {
-    background-image: url(/images/space/mercury.jpg);
+    background-image: url(space/mercury.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(3) {
-    background-image: url(/images/space/venus.jpg);
+    background-image: url(space/venus.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(4) {
-    background-image: url(/images/space/mars.jpg);
+    background-image: url(space/mars.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(5) {
-    background-image: url(/images/space/jupiter.jpg);
+    background-image: url(space/jupiter.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(6) {
-    background-image: url(/images/space/saturn.jpg);
+    background-image: url(space/saturn.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(7) {
-    background-image: url(/images/space/uranus.jpg);
+    background-image: url(space/uranus.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(8) {
-    background-image: url(/images/space/neptun.jpg);
+    background-image: url(space/neptun.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .mainPageDiv:nth-child(9) {
-    background-image: url(/images/space/sun.jpg);
+    background-image: url(space/sun.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .voyagerPageDiv:nth-child(1) {
-    background-image: url(/images/space/voyager.jpg);
+    background-image: url(space/voyager.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .voyagerPageDiv:nth-child(2) {
-    background-image: url(/images/space/goldPlate.jpg);
+    background-image: url(space/goldPlate.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .stellarisPageDiv:nth-child(1) {
-    background-image: url(/images/space/stellaris.jpg);
+    background-image: url(space/stellaris.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .stellarisPageDiv:nth-child(2) {
-    background-image: url(/images/space/stellaris2.jpg);
+    background-image: url(space/stellaris2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .stellarisPageDiv:nth-child(3) {
-    background-image: url(/images/space/gameplay.jpg);
+    background-image: url(space/gameplay.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .ninePageDiv:nth-child(1) {
-    background-image: url(/images/space/nine.png);
+    background-image: url(space/nine.png);
     background-size: cover;
     background-attachment: fixed;
 }
 .culturePageDiv:nth-child(1) {
-    background-image: url(/images/space/spaceArt.jpg);
+    background-image: url(space/spaceArt.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .culturePageDiv:nth-child(2) {
-    background-image: url(/images/space/fractArt.jpg);
+    background-image: url(space/fractArt.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .culturePageDiv:nth-child(3) {
-    background-image: url(/images/space/spaceArch.jpg);
+    background-image: url(space/spaceArch.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
