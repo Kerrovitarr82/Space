@@ -21,11 +21,9 @@ $(document).ready(function($) {
 		}
 	});
 
-	$(".burg").on("click",".bar",function(){
-  
+	$(".burg").on("click",".bar",function() {
 		$(".menu1").slideToggle();
 		$(".bar").toggleClass('change');
 		$(".menu1 li").slideRight();
-	  
 	   });
 });
